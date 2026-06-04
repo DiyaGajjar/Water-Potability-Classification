@@ -1,4 +1,4 @@
-# Water Potability: Classification & Comparative Analysis
+# Water-Potability-Classification
 
 A comparative study of supervised learning architectures designed to predict water potability. This project contrasts the interpretability of Decision Tree (DT) classifiers against the predictive robustness of Random Forest (RF) ensemble methods, with a specific focus on optimizing for public health safety through metric selection.
 
